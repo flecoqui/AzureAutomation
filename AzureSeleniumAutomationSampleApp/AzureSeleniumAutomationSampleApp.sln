@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureSeleniumAutomationSampleApp", "AzureSeleniumAutomationSampleApp\AzureSeleniumAutomationSampleApp.csproj", "{25E0890D-2A87-4061-B905-A95D1E9BAB83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25E0890D-2A87-4061-B905-A95D1E9BAB83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25E0890D-2A87-4061-B905-A95D1E9BAB83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25E0890D-2A87-4061-B905-A95D1E9BAB83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25E0890D-2A87-4061-B905-A95D1E9BAB83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02749745-D661-441C-8029-61018D24803B}
+	EndGlobalSection
+EndGlobal
